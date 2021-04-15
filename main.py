@@ -8,7 +8,7 @@ genaration_size  = 10
 validate_factor = 1
 train_factor = 0.7
 population_size = 20
-secret_key = "xfynomZku5eRSx4RmkKm8MUdiunDaxJiAUyNS0VUnSN5s9eWCv"
+secret_key = "secret_key"
 
 def calc_fitness(weights):
     cal_fitness = []
